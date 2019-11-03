@@ -1,0 +1,60 @@
+[33mcommit 0304355b64d809b00b532bce4e2e911875b5c9e1[m[33m ([m[1;36mHEAD -> [m[1;32mfeature1[m[33m)[m
+Author: Chenqi Fan <cf2799@columbia.edu>
+Date:   Sun Nov 3 18:12:26 2019 +0000
+
+    make some changte to creat A
+
+[33mcommit 2af34879962a35b4bfc2929ab9ff660e2c64f002[m[33m ([m[1;32mmaster[m[33m)[m
+Merge: 5c1b1ed e2a2da5
+Author: Chenqi Fan <cf2799@columbia.edu>
+Date:   Wed Oct 30 21:17:08 2019 +0000
+
+    Merge branch 'feature3'
+
+[33mcommit 5c1b1ed7c394c76cbb9c17c8be2f15fc7f42dd98[m
+Author: Chenqi Fan <cf2799@columbia.edu>
+Date:   Wed Oct 30 21:12:35 2019 +0000
+
+    Update c with more pats
+
+[33mcommit e2a2da5d8da41bde49a356f4205264ac3a6356f3[m[33m ([m[1;32mfeature3[m[33m)[m
+Author: Chenqi Fan <cf2799@columbia.edu>
+Date:   Wed Oct 30 21:10:23 2019 +0000
+
+    Update c
+
+[33mcommit 89a8952de871d25c2c10fe5fd7d093d627aa4209[m[33m ([m[1;31morigin/master[m[33m)[m
+Merge: 9450ea8 33b2f19
+Author: ChenqiFan-0305 <56941074+ChenqiFan-0305@users.noreply.github.com>
+Date:   Wed Oct 30 16:53:32 2019 -0400
+
+    Merge pull request #1 from ChenqiFan-0305/festure2
+    
+    Add new poem about rats
+
+[33mcommit 33b2f1991ac128566a5023017d77d1bfd2cae75e[m[33m ([m[1;31morigin/festure2[m[33m)[m
+Author: Chenqi Fan <cf2799@columbia.edu>
+Date:   Wed Oct 30 20:45:07 2019 +0000
+
+    Add new poem about rats
+
+[33mcommit 9450ea8ddcf83b3d94c2d826f4ae0e6b669e7adc[m
+Author: Chenqi Fan <cf2799@columbia.edu>
+Date:   Wed Oct 23 22:20:13 2019 +0000
+
+    Add new file with anything
+
+[33mcommit 0232b9d765f26d555ddafb4deae27638dc544f58[m
+Author: Chenqi Fan <cf2799@columbia.edu>
+Date:   Wed Oct 23 22:14:39 2019 +0000
+
+    Flesh out spleen poem
+
+[33mcommit f0b8578564a02f15bf7310fe98838c7c765c91f7[m
+Author: Chenqi Fan <cf2799@columbia.edu>
+Date:   Wed Oct 23 22:02:54 2019 +0000
+
+    Add spleen poem
+    
+    I wanted a poem about spleens
+    and happiness so I started off with...
